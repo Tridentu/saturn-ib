@@ -3,8 +3,8 @@
 
 ## Subtle changes that makes a big difference.
 
-We have fixed the problem with powerdevil and this widget.
-We have removed the version label (doesn't show up properly in the configuration window).
+= We have fixed the problem with powerdevil and this widget.
+= We have removed the version label (doesn't show up properly in the configuration window).
 
 ## Install
 To install, you will to clone this widget from Github. After that, just type:
